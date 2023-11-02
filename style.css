@@ -1,0 +1,23 @@
+body {
+    background-color: #86b9b0;
+    color: #042630;
+    height: 100vh;
+}
+
+.container { background-color: #4c7273; }
+
+#emailInput { 
+    background-color: #c3dbd7; 
+    box-shadow: none;
+    border: none;
+}
+
+#button, #diceBtn {
+    background-color: #042630;
+    color: #86b9b0;
+}
+
+#diceOutput { 
+    max-width: 6rem; 
+    margin: auto;
+}
